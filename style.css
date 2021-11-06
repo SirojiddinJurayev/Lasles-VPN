@@ -525,4 +525,29 @@ li {
 .blok {
   display: flex;
 }
+.mob_nav{
+  display: none;
+  position: relative;
+}
+.mob_nav-list{
+  padding: 0;
+}
+.mob_nav-items{
+  padding: 5px 0;
+}
+.mob_nav-link{
+  color: #0b132a;
+  font-size: 25px;
+}
+.mob_nav-inners{
+  left: -222px;
+  display: none;
+  position: absolute;
+  background-color: aqua;
+  padding-left: 15px;
+}
+.active{
+  display: block;
+}
+
 

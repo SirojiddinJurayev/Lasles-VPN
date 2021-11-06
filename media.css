@@ -1,0 +1,16 @@
+@media (max-width: 1000px) {
+.container{
+    width: 100%;
+    padding: 0 10px;
+}
+.nav,
+.auth{
+    display: none;
+}
+.mob_nav{
+    display: block;
+}
+.header_inners{
+    align-items: start;
+}
+}
