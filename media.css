@@ -13,4 +13,45 @@
 .header_inners{
     align-items: start;
 }
+.bottom_inners{
+    flex-wrap: wrap;
+    margin-top: 35px;
+}
+.bottom_desc{
+    margin-bottom: 50px;
+}
+.header_text{
+    margin-right: 0;
+    margin-bottom: 50px;
+}
+.title{
+    font-size: 32px;
+}
+.header_img{
+    width: 100%;
+    height: auto;
+}
+.header_info{
+    margin: 20px 0;
+
+}
+.header_info-inners{
+   /* flex-wrap: wrap;*/
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+}
+.info_items{
+    padding: 0 !important;
+}
+.info_items:nth-child(2):before{
+    width: 100%;
+    height: 2px;
+    top: 0;
+}
+.info_items:nth-child(2):after{
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+}
 }
