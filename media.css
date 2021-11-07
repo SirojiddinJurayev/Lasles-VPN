@@ -54,4 +54,35 @@
     height: 2px;
     bottom: 0;
 }
+.bottom1_inners{
+    display: block;
+
+}
+.header1_text{
+    text-align: center;
+}
+.header1_desc{
+    text-align: center;
+}
+.items{
+    text-align: center;
+}
+.prise_inners{
+    display: block;
+}
+.prise-items{
+    align-items: center;
+    justify-content: center;
+}
+.prize_text{
+    text-align: center;
+}
+.prize_desc{
+    text-align: center;
+}
+.comment_items{
+    display: block;
+    align-items: center;
+
+}
 }
