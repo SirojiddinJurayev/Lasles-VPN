@@ -85,4 +85,14 @@
     align-items: center;
 
 }
+.header_text{
+    text-align: center;
+}
+.header_desc{
+    text-align: center; 
+}
+.header_img{
+    align-items: center;
+    justify-content: center;
+}
 }
