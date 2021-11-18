@@ -20,6 +20,11 @@
 }
 .bottom_desc{
     margin-bottom: 50px;
+    margin-right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .header_text{
     margin-right: 0;
@@ -159,7 +164,7 @@
 
 }
 .get_started{
-    margin-left: 12px;
+    
 }
 }
 
