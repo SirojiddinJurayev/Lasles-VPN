@@ -341,7 +341,8 @@ li {
   background: white;
   border: 2px solid #DDDDDD;
   border-radius: 10px;
-  padding: 30px;
+  box-sizing: border-box;
+  padding: 15px;
 }
 .comment_inners:hover{
   cursor: pointer;
@@ -360,10 +361,10 @@ li {
   margin: 0px 30px 30px;
 }
 
-.cont_desc {
+/*.cont_desc {
   width: 1300px;
   margin: 0 auto;
-}
+}*/
 
 .auth_button-inners {
   color: white;
