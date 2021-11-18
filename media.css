@@ -95,4 +95,8 @@
     align-items: center;
     justify-content: center;
 }
+.world{
+    width: 90%;
+    height: auto;
+}
 }
