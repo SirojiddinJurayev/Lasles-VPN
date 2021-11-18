@@ -103,4 +103,17 @@
     width: 90%;
     height: auto;
 }
+.footer_inners{
+    display: block;
+}
+.footer_list{
+    display: flex;
+}
+.footer_copyright{
+    margin-bottom: 20px;
+}
+.footer_text{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 }
