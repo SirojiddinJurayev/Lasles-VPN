@@ -123,4 +123,8 @@
 .stand_inners{
     height: auto;
 }
+.comment_inners{
+    margin: auto;
+    margin-bottom: 15px;
+}
 }
