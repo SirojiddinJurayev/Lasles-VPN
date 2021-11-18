@@ -126,6 +126,7 @@
 .comment_inners{
     margin: auto;
     margin-bottom: 15px;
+    width: 100%;
 }
 .bottom_photo{
     width: 100%;
