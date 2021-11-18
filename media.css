@@ -127,4 +127,8 @@
     margin: auto;
     margin-bottom: 15px;
 }
+.bottom_photo{
+    width: 100%;
+    height: auto;
+}
 }
