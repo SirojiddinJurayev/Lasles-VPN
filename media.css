@@ -145,4 +145,21 @@
     margin: 0;
     margin-bottom: 15px;
 }
+.prise-list_items{
+    margin: 0;
+    text-align: center;
 }
+.prise-items{
+    width: auto;
+}
+.info_items{
+    margin-bottom: 12px;
+    margin-top: 12px;
+    margin-left: 16px;
+
+}
+.get_started{
+    margin-left: 135px;
+}
+}
+
