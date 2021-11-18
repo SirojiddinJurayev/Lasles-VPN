@@ -2,6 +2,7 @@
 .container{
     width: 100%;
     padding: 0 10px;
+    box-sizing: border-box;
 }
 .nav,
 .auth{
@@ -115,5 +116,11 @@
 .footer_text{
     margin-top: 15px;
     margin-bottom: 15px;
+}
+.stand_inners{
+    display: block;
+}
+.stand_inners{
+    height: auto;
 }
 }
